@@ -7,4 +7,7 @@
 ● Laravel / Lumen ● Yii ● ZendFramework ● Symfony
 
 ### JS Frameworks Expert
-● Vue ● Nuxt ● Vuetify ● NativeScript ● Angular
+● Vue ● Nuxt ● Vuetify
+
+### JS Frameworks Proficient
+● React ● NativeScript ● Angular
