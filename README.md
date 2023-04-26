@@ -11,3 +11,6 @@
 
 ### JS Frameworks Proficient
 ● React ● NativeScript ● Angular
+
+
+orest.b2b@gmail.com
