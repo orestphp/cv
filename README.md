@@ -1,7 +1,7 @@
 ### Technology Expert
-● PHP v4-8 ● Apache / Nginx ● Linux ● JAVA/Android ● REST / GraphQL / WebSockets
+● PHP v4-8 ● Apache / Nginx ● Linux / Bush ● REST / GraphQL / WebSockets
 ● JavaScript(ES 262, ES5, ES6) ● JQuery,UI ● HTML5,CSS,SASS,Bootstrap
-● Docker ● MySql / PostgreSQL ● GIT
+● Docker ● MySql / PostgreSQL ● GIT ● TypeScript
 
 ### PHP Frameworks Expert
 ● Laravel / Lumen ● Yii ● ZendFramework ● Symfony
